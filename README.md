@@ -1,8 +1,7 @@
-# James McGlynn Jr.
-## Projects
-### Game Development
+# Projects
+## Game Development
 - Game 1
 - Games 2
-### AR
+## AR
 - Pandemic
-## Info
+# Info
