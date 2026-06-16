@@ -1,1 +1,1 @@
-# jamcglynnjr.github.io
+# James McGlynn Jr.
